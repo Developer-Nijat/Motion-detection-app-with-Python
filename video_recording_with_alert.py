@@ -5,7 +5,7 @@ import pygame
 
 # Paths
 output_dir = "captured_videos"
-alert_sound_path = "assets/sounds/sire-fire-alert.wav"
+alert_sound_path = "assets/sounds/siren-fire-alert.wav"
 
 # Create directories if they don't exist
 os.makedirs(output_dir, exist_ok=True)
