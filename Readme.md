@@ -45,13 +45,6 @@ cd motion-detection-alert
 pip install -r requirements.txt
 ```
 
-> **Note**: Create a `requirements.txt` file containing the following for better package management:
-> ```
-> opencv-python
-> numpy
-> pygame
-> ```
-
 ## Usage
 
 1. **Run the Motion Detection Application**:
