@@ -14,8 +14,7 @@ A Python-based motion detection application that records video and plays an aler
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Code Structure](#code-structure)
-5. [License](#license)
-6. [Background Operation](#background-operation)
+5. [Background Operation](#background-operation)
 
 ## Dependencies
 
