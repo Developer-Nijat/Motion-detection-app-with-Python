@@ -99,9 +99,6 @@ motion-detection-alert/
 - **video_recording.py**: Records video when motion is detected, without sound alert.
 - **video_recording_with_alert.py**: Main script with motion detection and alert sound.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
